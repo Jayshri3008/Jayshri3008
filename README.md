@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshri3008&label=Profile%20views&color=0e75b6&style=flat" alt="jayshri3008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayshri3008" alt="jayshri3008" /></a> </p>
-
 - 🔭 I’m currently working on **SAKHI AI - Women Safety & Health Prediction System**
 
 - 🌱 I’m currently learning **AI and Machine Learning, NLP, Power BI, Feature Engineering**
